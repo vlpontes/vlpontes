@@ -8,4 +8,4 @@
 
 
 
-![Here](https://dev.to/envoy_/150-badges-for-github-pnk) is the page from where I got the badges
+[Here](https://dev.to/envoy_/150-badges-for-github-pnk) is the page from where I got the badges
