@@ -2,8 +2,8 @@
 
 #### A Security Student, a DevOps day by day, and a Debian enthusiast.
 
-### Skill & Languages & Tools 🛠
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+### Skills, Languages & Tools 🛠
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
  ![TERRAFORM]( "TERRAFORM") ![ANSIBLE]( "ANSIBLE") ![DOCKER]( "DOCKER") ![KUBERNETES]( "KUBERNETES") ![DEBIAN]( "DEBIAN") ![GIT]( "GIT")
 
 ### Things I Like:
