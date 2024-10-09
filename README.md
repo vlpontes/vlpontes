@@ -3,8 +3,11 @@
 #### A Security Student, a DevOps day by day, and a Debian enthusiast.
 
 ### Skills, Languages & Tools 🛠
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
- ![TERRAFORM]( "TERRAFORM") ![ANSIBLE]( "ANSIBLE") ![DOCKER]( "DOCKER") ![KUBERNETES]( "KUBERNETES") ![DEBIAN]( "DEBIAN") ![GIT]( "GIT")
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="30" height="30"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="30" height="30"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ansible/ansible-plain.svg" alt="ansible" width="30" height="30"/>  
+
+![ANSIBLE]( "ANSIBLE") ![DOCKER]( "DOCKER") ![KUBERNETES]( "KUBERNETES") ![DEBIAN]( "DEBIAN") ![GIT]( "GIT")
 
 ### Things I Like:
 
