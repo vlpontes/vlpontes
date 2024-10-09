@@ -4,7 +4,7 @@
 
 ### Skills, Languages & Tools 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,github,githubactions,terraform,linux,bash,kubernetes,docker,git,grafana,prometheus,kali,raspberrypi,nginx,npm,py,ansible,debian,md,vscodium&perline=4)](https://skillicons.dev)  
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,github,githubactions,terraform,linux,bash,kubernetes,docker,git,grafana,prometheus,kali,raspberrypi,nginx,npm,py,ansible,debian,md,vscodium,dbeaver,chromium,chatgpt&perline=4)](https://skillicons.dev)  
   
 
      
@@ -16,4 +16,4 @@
 
 
 
-[Here](https://github.com/tandpfun/skill-icons) is the page from where I got the icons.
+[Here](https://github.com/LelouchFR/skill-icons) is the page from where I got the icons.
