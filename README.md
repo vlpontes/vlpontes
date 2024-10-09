@@ -16,4 +16,4 @@
 
 
 
-[Here](https://github.com/devicons) is the page from where I got the icons.
+[Here](https://github.com/tandpfun/skill-icons) is the page from where I got the icons.
