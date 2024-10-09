@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### I'm currently a Security Posgraduate Student and a DevOps/Cloud Engineer Professional. Debian and Open Source Projects enthusiast.
+#### I'm currently a Security Posgraduate Student and a DevOps/CloudSec Engineer Professional. Debian and Open Source Projects enthusiast.
 
 ### Skills, Languages & Tools 🛠
 
