@@ -1,5 +1,9 @@
-### What I have been learning:
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white "AWS") ![TERRAFORM](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white "TERRAFORM") ![ANSIBLE](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white "ANSIBLE") ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white "DOCKER") ![KUBERNETES](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white "KUBERNETES") ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white "MICROSOFT") ![DEBIAN](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white "DEBIAN") ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white "GIT")
+### Hello there 👋
+
+#### A Security Student and a DevOps day by day, and a Debian enthusiast.
+
+### Skill & Languages & Tools 🛠
+![AWS](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg "AWS") ![TERRAFORM](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/terraform/terraform-original.svg "TERRAFORM") ![ANSIBLE](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ansible/ansible-original.svg "ANSIBLE") ![DOCKER](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg "DOCKER") ![KUBERNETES](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg "KUBERNETES") ![DEBIAN](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/debian/debian-original.svg "DEBIAN") ![GIT](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg "GIT")
 
 ### Things I Like:
 
