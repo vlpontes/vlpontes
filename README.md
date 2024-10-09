@@ -4,7 +4,7 @@
 
 ### Skills, Languages & Tools 🛠
 
-|-------------|-------------|-------------|
+|-----------------------|-----------------------|-----------------------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="30" height="30"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/> |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg" alt="k8s" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/debian/debian-original.svg" alt="debian" width="30" height="30"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> |
      
