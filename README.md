@@ -4,9 +4,8 @@
 
 ### Skills, Languages & Tools 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,github,githubactions,terraform,linux&perline=4)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,git,bash,grafana,prometheus,kali&perline=4)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=nginx,npm,py,raspberrypi,ansible,debian,md,vscodium&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,github,githubactions,terraform,linux,bash,kubernetes,docker,git,grafana,prometheus,kali,raspberrypi,nginx,npm,py,ansible,debian,md,vscodium&perline=4)](https://skillicons.dev)  
+  
 
      
 
