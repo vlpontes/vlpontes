@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### I'm Virginia Pontes(She/Her), currently I'm a Security Posgraduate Student and a DevOps/CloudSec Engineer Professional. Debian and Open Source Projects enthusiast.
+#### I'm Virginia Pontes(She/Her), currently I'm a Security Posgraduate Student and a DevOps/SecOps Engineer Professional. Debian lover, Open Source and Free Software enthusiast.
 
 ### Skills, Languages & Tools 🛠
 
