@@ -1,13 +1,13 @@
 ### Hello there 👋
 
-#### I'm Virginia Pontes(She/Her), currently I'm a Security Posgraduate Student and a DevOps/SecOps Engineer Professional. Debian lover, Open Source and Free Software enthusiast.
+#### I'm Virginia Pontes, currently I'm a Security Postgraduate Student and a DevOps/SecOps Engineer. Debian lover, Open Source and Free Software enthusiast.
 
 ### Skills, Languages & Tools 🛠
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,github,githubactions,terraform,linux,bash,kubernetes,docker,git,grafana,prometheus,kali,raspberrypi,nginx,npm,py,ansible,debian,md,vscodium,dbeaver,chromium,chatgpt&perline=4)](https://skillicons.dev)  
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,github,githubactions,terraform,linux,bash,kubernetes,docker,git,grafana,prometheus,kali,raspberrypi,nginx,npm,py,ansible,debian,md,vscodium,dbeaver,chromium,chatgpt&perline=4&titles=true)](https://skillicons.dev)  
   
 
-![Snake animation](https://raw.githubusercontent.com/vlpontes/vlpontes/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/vlpontes/vlpontes/output/github-contribution-grid-snake-dark.svg)
      
 
 ### In my free time:
