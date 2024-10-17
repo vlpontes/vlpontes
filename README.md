@@ -7,14 +7,14 @@
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,github,githubactions,terraform,linux,bash,kubernetes,docker,git,grafana,prometheus,kali,raspberrypi,nginx,npm,py,ansible,debian,md,vscodium,dbeaver,chromium,chatgpt&perline=4)](https://skillicons.dev)  
   
 
-![Snake animation](https://raw.githubusercontent.com/vlpontes/vlpontes/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/vlpontes/vlpontes/output/github-contribution-grid-snake.svg)
      
 
-### What I Play:
+### In my free time:
 
 !["Counter-Strike"](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white "Counter-Strike") 
 
 
 
 
-[Here](https://github.com/LelouchFR/skill-icons) is the page from where I got the icons.
+[Here](https://github.com/LelouchFR/skill-icons) is the repo from where I got the icons above.
