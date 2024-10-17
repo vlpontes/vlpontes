@@ -4,7 +4,7 @@
 
 ### Skills, Languages & Tools 🛠
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,github,githubactions,terraform,linux,bash,kubernetes,docker,git,grafana,prometheus,kali,raspberrypi,nginx,npm,py,ansible,debian,md,vscodium,dbeaver,chromium,chatgpt&perline=4&titles=true)](https://skillicons.dev)  
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,github,githubactions,terraform,linux,bash,kubernetes,docker,git,grafana,prometheus,zabbix,kali,raspberrypi,nginx,npm,py,ansible,debian,md,vscodium,chromium,chatgpt,flameshot&perline=4)](https://skillicons.dev)  
   
 
 ![Snake animation](https://raw.githubusercontent.com/vlpontes/vlpontes/output/github-contribution-grid-snake-dark.svg)
