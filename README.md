@@ -4,17 +4,20 @@
 
 ### Skills, Languages & Tools 🛠
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,github,githubactions,terraform,linux,bash,kubernetes,docker,git,grafana,prometheus,zabbix,kali,raspberrypi,nginx,npm,py,ansible,debian,md,vscodium,chromium,chatgpt,flameshot&perline=4)](https://skillicons.dev)  
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,github,githubactions,terraform,yaml,linux,bash,terminal,kubernetes,docker,git,grafana,prometheus,zabbix,kali,raspberrypi,nginx,npm,py,ansible,debian,md,vscodium,chromium,chatgpt,tor&perline=4)](https://skillicons.dev)  
   
 
 ![Snake animation](https://raw.githubusercontent.com/vlpontes/vlpontes/output/github-contribution-grid-snake-dark.svg)
      
 
-### In my free time:
+### Where you can find me:
+<img align="left" src="https://github.com/vlpontes/gitprofile-vlpontes/blob/main/images/girl-cyber.png">  
 
-!["Counter-Strike"](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white "Counter-Strike") 
+<a href="https://www.linkedin.com/in/virginia-pontes/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+</a>
 
 
 
 
-[Here](https://github.com/LelouchFR/skill-icons) is the repo from where I got the icons above.
+<a href="https://github.com/LelouchFR/skill-icons" target="_blank">Here</a> is the repo from where I got the icons above.
