@@ -11,7 +11,7 @@
      
 
 ### Where you can find me:
-<img align="left" src="https://github.com/vlpontes/gitprofile-vlpontes/blob/main/images/girl-cyber.png">  
+<img align="left" src="https://github.com/vlpontes/vlpontes/blob/master/images/girl-cyber.png">  
 
 <a href="https://www.linkedin.com/in/virginia-pontes/" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
