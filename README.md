@@ -15,7 +15,7 @@
 
 <a href="https://www.linkedin.com/in/virginia-pontes/" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
-</a>
+</a>  
 
 
 
