@@ -16,8 +16,13 @@
 <a href="https://www.linkedin.com/in/virginia-pontes/" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
 </a>  
-
-
-
-
-<a href="https://github.com/LelouchFR/skill-icons" target="_blank">Here</a> is the repo from where I got the icons above.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><a href="https://github.com/LelouchFR/skill-icons" target="_blank">Here</a> is the repo from where I got the icons above.
+</p>
